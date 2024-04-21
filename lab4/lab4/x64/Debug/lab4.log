@@ -1,0 +1,4 @@
+﻿  lab4.cpp
+C:\Users\wilfr\source\repos\lab4\lab4.cpp(27,13): error C3861: 'toCelsius': identifier not found
+C:\Users\wilfr\source\repos\lab4\lab4.cpp(32,13): error C3861: 'toKelvin': identifier not found
+C:\Users\wilfr\source\repos\lab4\lab4.cpp(7,30): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data

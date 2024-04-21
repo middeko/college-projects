@@ -1,0 +1,8 @@
+﻿  Art.cpp
+  battle.cpp
+  lab10.cpp
+  Movie.cpp
+  Painting.cpp
+  Generating Code...
+lab10.obj : error LNK2005: main already defined in battle.obj
+C:\Users\wilfr\source\repos\lab10\x64\Debug\lab10.exe : fatal error LNK1169: one or more multiply defined symbols found

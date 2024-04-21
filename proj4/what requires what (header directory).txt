@@ -1,0 +1,15 @@
+uses item.h -> weapon.h, ship.h, engine.h, armor.h
+uses ship.h -> planet.h
+uses planet.h -> mining.h,gas.h, enemy.h,
+
+game.h uses all of the above
+proj4.cpp uses game.h
+
+
+
+what needs to be done:
+	- randomly select an item of value that is equal to the planets challenge (IdentifyItem();)
+
+office hours questions:
+	mem leaks issues:
+		- new should only be in loaditems or load planets or ship creation
